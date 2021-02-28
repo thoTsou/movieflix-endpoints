@@ -1,0 +1,4 @@
+{"username":"admin","email":"admin@mail.com","password":"admin1","comments":[],"category":"admin"}
+{"username":"user1","email":"user1@mail.com","password":"pass1","comments":[{"movie1":"comment1"},{"movie2":"comment2"}],"category":"simple"}
+{"username":"user2","email":"user2@mail.com","password":"pass2","comments":[{"movie1":"comment1"},{"movie2":"comment2"}],"category":"simple"}
+{"username":"user3","email":"user3@mail.com","password":"pass3","comments":[{"movie3":"comment3"}],"category":"simple"}

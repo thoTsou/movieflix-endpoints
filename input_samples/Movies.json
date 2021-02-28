@@ -1,0 +1,3 @@
+{"title":"movie1","year":2000,"description":"descr1","actors":[{"name":"actor1"} , {"name":"actor2"}],"rating":6,"comments":[{"user":"user1","comment":"comment1"} , {"user":"user2","comment":"comment1"}]}
+{"title":"movie2","year":2002,"description":"descr2","actors":[{"name":"actor5"} , {"name":"actor3"}],"rating":7,"comments":[{"user":"user2","comment":"comment2"} , {"user":"user1","comment":"comment2"}]}
+{"title":"movie3","year":2003,"description":"descr3","actors":[{"name":"actor6"} , {"name":"actor4"}],"rating":8,"comments":[{"user":"user3","comment":"comment3"} ]}
